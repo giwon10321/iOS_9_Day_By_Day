@@ -54,7 +54,7 @@ UIStackView는 여러분을 위해 이 모든것을 해준다. 심지어는 뷰�
 
 distriution과 alignment의 다른 조합들과 함께 플레이를 시도해보자. 이는 많은 디바이스에서 완벽하게 동작하는 인터페이스를 제작하기 위해 여러분을 도와줄 때 UIStackView가 얼마나 강력한지 보여준다.
 ###Adding existing views to UIStackView
-만약 여러분이 UIStackView 레이아웃을 사용하기 위해 변환하고 싶은 존재하는 UI를 가지고 있다면 간단하게 여러분의 뷰에 있는 제약을 지우고 그들을 선택하고 인터페이스 빌더 윈도우의 우측 하단에 있는 가장 왼쪽의 버튼을 클릭하세요. 이는 여러분의 뷰를 새로운 UIStackView로 바꾸고 빠르게 정렬해줍니다.
+만약 여러분이 UIStackView 레이아웃을 사용하기 위해 변환하고 싶은 존재하는 UI를 가지고 있다면 간단하게 여러분의 뷰에 있는 제약을 지운뒤 그들을 선택하고 인터페이스 빌더 윈도우의 우측 하단에 있는 가장 왼쪽의 버튼을 하자. 이는 여러분의 뷰를 새로운 UIStackView로 바꾸고 빠르게 정렬해준다.
 
-![image](images/4-3.png)이는 레이아웃을 기반으로 여러분의 존재하는 제약을 여러분을 위한 제약 레이아웃의 대부분을 관리할 수 있는 간단한 스택 뷰로 변환할 것 입니다.###Further Reading
-Xcode7에서 Storyboard Reference의 더 많은 정보를 위해서는 WWDC session 218, Auto Layout의 신비함, Part.1을 보는 것을 추천합니다. Jason Yao는 UIStackView의 기초를 비디오의 첫 15분에서 다뤘고 과거에서 여러분이 필요했던 것 보다 적은 제약으로 어떻게 인터페이스를 만들 수 있는지 보여주는 데모를 만들었습니다.
+![image](images/4-3.png)이는 레이아웃을 기반으로 여러분의 존재하는 제약을 여러분을 위한 제약 레이아웃의 대부분을 관리할 수 있는 간단한 스택 뷰로 변환할 것 이다.###Further Reading
+Xcode7에서 Storyboard Reference의 더 많은 정보를 위해서는 WWDC session 218, Auto Layout의 신비함, Part.1을 보는 것을 추천한다. Jason Yao는 UIStackView의 기초를 비디오의 첫 15분에서 다뤘고 과거에서 여러분이 필요했던 것 보다 적은 제약으로 어떻게 인터페이스를 만들 수 있는지 보여주는 데모를 만들었다.
